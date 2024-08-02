@@ -1,6 +1,13 @@
 ### TRIANGULOS
 
-Para ejecutar el programa debe hacerce en python 3
+## CARACTERISTICAS
+* El programa recibe tres valores númericos y determina el tipo de triangulo (Equilatero, Isoceles, Escaleno)
 
-EJECUTAR EL ARCHIVO **"triangulos.py"**
+## REQUISITOS
+* Python 3
+
+## EJEUCIÓN
+**COMANDO:**
+  python triangulos.py
+
 
